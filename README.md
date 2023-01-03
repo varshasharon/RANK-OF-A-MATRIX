@@ -16,8 +16,8 @@ Print the value and end the program.
 ## Program:
 ```python
 #Program to find the rank of a matrix.
-#Developed by: Mohammed Faizal.J
-#RegisterNumber:22003412
+#Developed by: E VARSHA SHARON
+#RegisterNumber:22004867
 import numpy as py
 a=py.array([[1,2,3],[3,6,9]])
 rank=py.linalg.matrix_rank(a)
